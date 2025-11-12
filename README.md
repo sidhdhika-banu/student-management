@@ -29,7 +29,7 @@ Password: (empty)
 
 ## Test API Endpoints
 
-Use Postman or Swagger UI to test the following endpoints:
+Use Postman to test the following endpoints:
 
 Add a new student: POST	- /api/students	
 
