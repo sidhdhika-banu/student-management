@@ -32,12 +32,17 @@ Password: (empty)
 Use Postman or Swagger UI to test the following endpoints:
 
 Add a new student: POST	- /api/students	
+
 Get all student:s GET - /api/students	
-Get student by ID: GET - /api/students/{id}	
+
+Get student by ID: GET - /api/students/{id}
+
 Update a student: PUT	- /api/students/{id}	
+
 Delete a student: DELETE - /api/students/{id}
 
 ## Developed by:
 
 Name: M.S.Sidhdhika Banu
+
 Index No: ICT/21/814
